@@ -6,8 +6,8 @@ from django.shortcuts import redirect
 
 from django.http import HttpResponse, HttpRequest, JsonResponse
 
-import requests
-import json
+# import requests
+# import json
 
 # def dosome (resp):
 #     # result = json.loads(resp)
